@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YuyaMoritaa
+- 👋 Hi, I’m @YuyaMoritaa, live in Japan.
 - 👀 I’m interested in NFL(National Football League, USA)
 - 🌱 I’m currently learning "Java"
 - 💞️ I’m looking to collaborate on ...
